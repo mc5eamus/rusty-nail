@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "compressor",
+    "cli",
+]
+resolver = "2"
