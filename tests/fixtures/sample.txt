@@ -1,0 +1,3 @@
+The quick brown fox jumps over the lazy dog.
+Rust is a systems programming language focused on safety and performance.
+This file is used as a test fixture for compression tests.
